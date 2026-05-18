@@ -1,15 +1,17 @@
-<style>
-  figure{
-    border-style: groove;
-    box-shadow:10px 10px lightgray;
-    padding: 10px;
-  }
-  img{
-    width: 50%
- </style>
- <div class="caixa">
- <figure>
-   <figcaption> <h1>kratos</h1></figcaption>
-   <img srchttps://share.google/DV1SnatxkRH0ziFyF
-  
- </figure>
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>vivic</title>
+</head>
+<body>
+
+    <h1>Eva Nanes</h1>
+
+    <p>
+        Meu nome é Victoria millena, tenho 15 anos, meu aniversário é dia 10 de setembro. 
+        Atualmente estou matriculada na Escola Técnica Estadual Ariano Vilar Suassuna. 
+        Cursando o técnico integrado em Desenvolvimento de sistemas e participando da turma 1° "B" D.s.
+    </p>
+</body>
+</html>
